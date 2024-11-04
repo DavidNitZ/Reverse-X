@@ -1,0 +1,906 @@
+{
+    "backdoors": [
+        {
+            "path": "/wp-content/uploads/2017-------/09/wp-console.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/js/crop/uword.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/bltm/wp-login.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/autoload_classmap.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/2014/07/olx.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/css/colors/midnight/index.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/2020/wp-couldent.php.suspected",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/523453244/ninja.php",
+            "expected_string": "<title>{Ninja-Shell}</title>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/js/imgareaselect/index.php",
+            "expected_string": "<title>{Ninja-Shell}</title>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/PHPMailer/load.php",
+            "expected_string": "<title>MARIJUANA</title>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-links.php",
+            "expected_string": "<title>MARIJUANA</title>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-aa.php",
+            "expected_string": "Add WordPress Admin",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/travelscape/json.php",
+            "expected_string": "MSQ_403",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/travel/issue.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/about.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xx.php",
+            "expected_string": "Bypass Sh3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/digital-download/new.php",
+            "expected_string": "#0x2525",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/epinyins.php",
+            "expected_string": "Uname::",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/dropdown.php",
+            "expected_string": "Uname::",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/dropdown.php",
+            "expected_string": "Gel4y Mini Shell",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/css/index.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/mah.php",
+            "expected_string": "code: AnonSec Shell",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/item.php",
+            "expected_string": "code: Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/shell/about.php",
+            "expected_string": "title>V4Mp</title",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/pwnd/pwnd.php",
+            "expected_string": "name=\"uploader\" id=\"uploader\"><input type=\"file\" name=\"file\"><input name=\"_upl\" type=\"submit\" id=\"_upl\" value=\"Upload\"",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/fix/up.php",
+            "expected_string": "input type=\"submit\" value=\"Upload Image\" name=\"submit\"",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/ph-file-manager/wp-file.php",
+            "expected_string": "AlkantarClanX12",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/root-file-manager/wp-file.php",
+            "expected_string": "AlkantarClanX12",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/wp-help/mini.php",
+            "expected_string": "j3mb03dz m4w0tz sh311",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/travel/issue.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/jaida/lang.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-l0gin.php",
+            "expected_string": "pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/ext.php",
+            "expected_string": "pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-l0gin.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": [
+                "/wp-content/wso.php",
+                "/wp-includes/wso.php",
+                "/wso.php",
+                "/wp-content/uploads/wso.php",
+                "/wp-content/plugins/wso.php",
+                "/wp-includes/wso.php",
+                "/wp-admin/wso.php",
+                "/defaul1.php"
+            ],
+            "expected_string": "code: form method=post>Password: <input type=password name=pass><input type=submit value='>>'",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/index.php",
+            "expected_string": "code: Doc Root:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/index.php",
+            "expected_string": "code: #I LOVE YOU EVERDAY#",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": [
+                "/cgi-bin/network.php",
+                "/wp-includes/rest-api/network.php",
+                "/wp-admin/images/network.php",
+                "/wp-includes/block-supports/network.php",
+                "/wp-includes/network.php",
+                "/wp-includes/js/network.php",
+                "/.well-known/pki-validation/network.php",
+                "/wp-includes/css/network.php",
+                "/wp-admin/network/network.php",
+                "/wp-includes/PHPMailer/network.php",
+                "/wp-includes/blocks/network.php",
+                "/wp-includes/Text/network.php",
+                "/wp-includes/Requests/network.php",
+                "/wp-admin/user/network.php",
+                "/.well-known/network.php",
+                "/wp-content/uploads/network.php",
+                "/wp-content/themes/hideo/network.php"
+            ],
+            "expected_string": "Cod3d By AnonymousFox",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/content.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/radio.php",
+            "expected_string": "//0x5a455553.github.io/MARIJUANA/icon.png",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin.php",
+            "expected_string": "0byte Mini",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin.php",
+            "expected_string": "//0x5a455553.github.io/MARIJUANA/icon.png",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin.php",
+            "expected_string": "type=\"button\">Upload File<",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin.php",
+            "expected_string": "Gel4y Mini Shell",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/ioxi01.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/json.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/json.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/freeyanz/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/erapress/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/css/index.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/pki-validation/atomlib.php",
+            "expected_string": "x3x3x3x_5h3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/css/colors/blue/atomlib.php",
+            "expected_string": "x3x3x3x_5h3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/Requests/atomlib.php",
+            "expected_string": "x3x3x3x_5h3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/acme-challenge/atomlib.php",
+            "expected_string": "x3x3x3x_5h3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/style-css.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/core/include.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/ws.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/404.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-head.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/wp-class.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/twenty/twenty.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/press/wp-class.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/fm1.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/alfadheat.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/M1.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/css/index.php",
+            "expected_string": "<span>Upload file:</span>",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/travelscape/json.php",
+            "expected_string": "MSQ_403",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/travel/issue.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/about.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xx.php",
+            "expected_string": "Bypass Sh3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/digital-download/new.php",
+            "expected_string": "#0x2525",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/epinyins.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/dropdown.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/dropdown.php",
+            "expected_string": "Gel4y Mini Shell",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/images/admin.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/alfanew.php7",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/wso112233.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/about.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/shell20211028.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/repeater.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/finley/min.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wso112233.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/dropdown.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/dropdown.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/shell20211028.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/Cache/Cache.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/IXR/themes.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/pki-validation/about.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-header.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/alfanew.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/ID3/about.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-2019.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/autoload_classmap.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/ID3/wp-login.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/SimplePie/plugins.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/alfa-rex.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/about.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/about.php",
+            "expected_string": "Uname:",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/woh.php",
+            "expected_string": "[ HOME SHELL ]",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/includes/themes.php",
+            "expected_string": "Yanz Webshell!",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/504.php",
+            "expected_string": "[+] MINI SH3LL BYPASS [+]",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/444.php",
+            "expected_string": "[+] MINI SH3LL BYPASS [+]",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/doyanz/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/panama/json.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/moog/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/2023/11/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/2023/12/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/blogai/issue.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/agwin/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/themes/quext/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/app-calendar/config.php",
+            "expected_string": "xXx Kelelawar Cyber Team xXx",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xx.php",
+            "expected_string": "Bypass Sh3ll",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/style.php",
+            "expected_string": ":200400",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/defaults.php",
+            "expected_string": "input type=\"password\" name=\"pwdyt\" value=\"\" placeholder=\"passwd\"",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/plugins/dummyyummy/wp-signup.php",
+            "expected_string": "Simple Shell",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/pki-validation/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.tmb/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/images/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/acme-challenge/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/class.api.php",
+            "expected_string": "%PDF-0-1<form action",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xleet.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xl2023x.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xxl.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/x.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xl.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/acme-challenge/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/includes/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/maint/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/upgrade/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/images/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/user/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/js/widgets/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/network/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/images/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/pki-validation/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xleet-shell.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin-heade.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/cgi-bin/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xleet.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xl2023x.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xxl.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/x.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xl.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-includes/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/acme-challenge/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/includes/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/maint/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/upgrade/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/images/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/user/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/js/widgets/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/network/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-admin/images/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/.well-known/pki-validation/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/xleet-shell.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/admin-heade.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/cgi-bin/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/iR7SzrsOUEP.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        },
+        {
+            "path": "/wp-content/uploads/xl2023.php",
+            "expected_string": "<pre align=center><form method=post>Password<br><input type=password name=pass",
+            "vuln_name": "@Team_R3DZ0N3"
+        }
+    ]
+}
